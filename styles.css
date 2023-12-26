@@ -1,0 +1,355 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#regalo {
+    width: 80px;
+    height: 80px;
+    top: 50%;
+    left: 40%;
+    position: relative;
+}
+
+#pista {
+    color: white;
+    position: relative;
+    top: 65%;
+    left: auto;
+    font-size: 20px;
+    font-family: 'Single Day', cursive;
+    opacity: 0.5;
+}
+
+p {
+    position: relative;
+    top: 20%;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Single Day', cursive;
+}
+
+.texto-inicial {
+    position: relative;
+    top: 10%;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-1 {
+    top: 5%;
+    left: 85%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-2 {
+    top: 35%;
+    left: 55%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-3 {
+    top: 90%;
+    left: 30%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 70px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-4 {
+    top: 70%;
+    left: 25%;
+    rotate: z -45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-5 {
+    top: 80%;
+    left: 75%;
+    rotate: z -45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-6 {
+    top: 50%;
+    left: 75%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 70px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-7 {
+    top: 30%;
+    left: 15%;
+    rotate: z -45deg;
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-8 {
+    top: 105%;
+    left: 85%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-9 {
+    top: 135%;
+    left: 55%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-10 {
+    top: 190%;
+    left: 30%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 70px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-11 {
+    top: 170%;
+    left: 25%;
+    rotate: z -45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-12 {
+    top: 180%;
+    left: 75%;
+    rotate: z -45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-13 {
+    top: 150%;
+    left: 75%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 70px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-14 {
+    top: 130%;
+    left: 15%;
+    rotate: z -45deg;
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-15 {
+    top: 205%;
+    left: 85%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-16 {
+    top: 235%;
+    left: 55%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-17 {
+    top: 290%;
+    left: 30%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 70px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-18 {
+    top: 270%;
+    left: 25%;
+    rotate: z -45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-19 {
+    top: 280%;
+    left: 75%;
+    rotate: z -45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-20 {
+    top: 250%;
+    left: 75%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 70px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-21 {
+    top: 230%;
+    left: 15%;
+    rotate: z -45deg;
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-22 {
+    top: 305%;
+    left: 85%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-23 {
+    top: 335%;
+    left: 55%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-24 {
+    top: 390%;
+    left: 30%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 70px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-25 {
+    top: 370%;
+    left: 25%;
+    rotate: z -45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-26 {
+    top: 380%;
+    left: 75%;
+    rotate: z -45deg;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-27 {
+    top: 350%;
+    left: 75%;
+    rotate: z 45deg;
+    position: absolute;
+    color: white;
+    font-size: 70px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+.interrogacion-28 {
+    top: 330%;
+    left: 15%;
+    rotate: z -45deg;
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    opacity: 0.5;
+    font-family: 'Single Day', cursive;
+}
+
+section {
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
