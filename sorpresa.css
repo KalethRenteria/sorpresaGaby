@@ -128,7 +128,7 @@ p {
 #emoji {
     text-align: center;
     position: relative;
-    top: 26%;
+    top: 30%;
     font-size: 35px;
     animation-name: mover-corazon;
     animation-duration: 5s;
